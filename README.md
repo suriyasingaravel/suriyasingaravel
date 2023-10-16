@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suriya-singaravel-a710a516a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suriya-singaravel-a710a516a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/suriyasingaravel710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/suriyasingaravel710" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suriya_singaravel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/suriya_singaravel?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@suriyasingaravel-lm6en?si=c_rvuqkxvklx5bu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@suriyasingaravel-lm6en?si=c_rvuqkxvklx5bu4" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/https://youtube.com/@suriyasingaravel-lm6en?si=c_rvuqkxvklx5bu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@suriyasingaravel-lm6en?si=c_rvuqkxvklx5bu4" height="30" width="40" /></a> -->
 </p>
 
 # 💻 Tech Stack:
