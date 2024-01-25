@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Myntra-Clone**
 
 - 🌱 I’m currently learning **React Native**
 
